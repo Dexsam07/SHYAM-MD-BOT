@@ -7,7 +7,7 @@
 <a><img src='[https://i.ibb.co/x8gBn75k/IMG-20251226-083017.jpg](https://i.ibb.co/x8gBn75k/IMG-20251226-083017.jpg)'/></a>
 
 <p align="center">
-  <a href="https://github.com/MRSHYAM-MD42"><img title="Developer" src="https://img.shields.io/badge/Author-SHYAM-MD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Dexsam07"><img title="Developer" src="https://img.shields.io/badge/Author-SHYAM-MD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">

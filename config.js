@@ -28,7 +28,7 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "SEEN MY STATUS DEAR WHATSAPP-FR
  ╲       ╲          ╱
       ╲         ╱
           ︶
-SEND THE BOT 𝐥𝐨𝐯𝐞𝐬 𝐲𝐨𝐮 TOO ME 😇♥️𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 SMS* I'VE CREATED A *DEX-SAM*  BY SHARING THE NUMBER  +917384287404 ✅🤖👻😜",
+SEND THE BOT 𝐥𝐨𝐯𝐞𝐬 𝐲𝐨𝐮 TOO ME 😇♥️𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 SMS* I'VE CREATED A *DEX-SHYAM*  BY SHARING THE NUMBER  +917384287404 ✅🤖👻😜",
 // set the auto reply massage on status reply
 WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
@@ -36,11 +36,11 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || "AS",
 // add your prifix for bot
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/mfvM5mL/1000825221.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/x8gBn75k/IMG-20251226-083017.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "DEX-SAM-HA4K3R V5",
+BOT_NAME: process.env.BOT_NAME || "DEX-SHYAM-HA4K3R V5",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Sam Chaudhari",
+STICKER_NAME: process.env.STICKER_NAME || "SHYAM CHAUDHARI",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -56,7 +56,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ SAMIM
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/mfvM5mL/1000825221.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *DEX-SAM-HA4K3R*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *DEX-SHYAM-HA4K3R*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs

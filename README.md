@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE+FORK+STAR+BOT+REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/mfvM5mL/1000825221.jpg'/></a>
+<a><img src='[https://i.ibb.co/x8gBn75k/IMG-20251226-083017.jpg](https://i.ibb.co/x8gBn75k/IMG-20251226-083017.jpg)'/></a>
 
 <p align="center">
   <a href="https://github.com/MRSHYAM-MD42"><img title="Developer" src="https://img.shields.io/badge/Author-SHYAM-MD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>

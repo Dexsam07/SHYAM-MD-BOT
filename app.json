@@ -1,7 +1,7 @@
 {
-  "name": "DEX-SAM-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 Sam Chaudhari",
-  "logo": "https://i.ibb.co/mfvM5mL/1000825221.jpg",
+  "name": "DEX-SHYAM-MD",
+  "description": "Javascript WhatsApp bot made by 𝐌𝐑 Shyam Chaudhari",
+  "logo": "https://i.ibb.co/cS5S3BXp/Picsart-25-07-23-17-49-08-907.jpg",
   "keywords": ["SAMIM-MD"],
   "success_url": "/",
 
@@ -34,7 +34,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://i.ibb.co/mfvM5mL/1000825221.jpg"
+      "value": "https://i.ibb.co/x8gBn75k/IMG-20251226-083017.jpg"
     }, 
       
     "PREFIX": {
@@ -95,14 +95,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW DEX-SAM-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW DEX-SHYAM-MD 𓅓*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DEX-SAM-HA4K3R V5"
+      "value": "DEX-SHYAM-HA4K3R V5"
 
      },
      
